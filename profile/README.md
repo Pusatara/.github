@@ -6,15 +6,6 @@ This is a capstone project for our [Bangkit Academy](https://g.co/bangkit)'s fin
 ### Why?
 These fabrics are not merely textiles; they embody a rich cultural heritage, featuring intricate craftsmanship, diverse motifs, and age-old traditions. Regrettably, their cultural significance often remains concealed due to a lack of proper education and information dissemination to younger generations. Our team is determined to develop a comprehensive solution to educate, engage, and connect enthusiasts and artisans.
 
-## Branching
-Where is the code/dataset?
-
-- For API, go to [/api](https://github.com/Pandi20/Pusatara/tree/api)
-- For Android app, go to [/mobile-app](https://github.com/Pandi20/Pusatara/tree/mobile-app)
-- For ML dataset, go to [/ML](https://github.com/Pandi20/Pusatara/tree/ML)
-
-This is the **only repository** for capstone project of group CH2-PS007. Go to respective branch to browse related resources.
-
 ## Members
 
 | Role | ID         | Member Name                        | GitHub Profile                        | University                |
